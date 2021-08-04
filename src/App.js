@@ -9,9 +9,10 @@ function App() {
     <div
       style={{
         display: "flex",
-        padding: "3rem",
+        padding: "1rem",
         flexDirection: "column",
         backgroundColor: "#F5F5F5",
+        width: "100%",
       }}
     >
       <div style={{ zIndex: 2000 }}>

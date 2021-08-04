@@ -9,7 +9,6 @@ const useStylesa = makeStyles((theme) => ({
   container: {
     display: "flex",
     justifyContent: "space-around",
-    overflowX: "hidden",
     flexDirection: "row",
   },
   user_item: {
@@ -25,8 +24,6 @@ const useStylesa = makeStyles((theme) => ({
 const useStylesb = makeStyles((theme) => ({
   container: {
     display: "flex",
-    justifyContent: "space-around",
-    overflowX: "hidden",
     flexDirection: "column",
   },
   user_item: {

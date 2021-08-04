@@ -11,12 +11,12 @@ import VolunteersData from "../data/VolunteersData";
 
 const useStyles = makeStyles((theme) => ({
   roota: {
-    width: "100%",
+    width: "80%",
     marginRight: "10px",
     marginTop: "5px",
   },
   rootb: {
-    width: "100%",
+    width: "80%",
     marginLeft: "10px",
     marginTop: "5px",
   },
